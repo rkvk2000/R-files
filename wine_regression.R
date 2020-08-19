@@ -69,3 +69,5 @@ SST = sum((wineTest$Price - mean(wine$Price))^2)
 plot(model5)
 
 
+
+
